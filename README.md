@@ -4,10 +4,10 @@ Hi there! 👋
 <a href="https://www.linkedin.com/in/ashleybshaw/" target="_blank">
   <img align="left" alt="Ashley's LinkedIn" width="48px" color="blue" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-I'm Ashley, a Test  Engineer who likes to solve problems, document helpful information, and encourage team collaboration. Welcome to my GitHub profile. It's mostly filled with learning experiments, as I am not a full-time developer.
+I'm Ashley, a Test Engineer who likes to solve problems, document helpful information, and encourage team collaboration. Welcome to my GitHub profile. It's mostly filled with learning experiments, as I am not a full-time developer.
 <br />
 <br />
-⚡ Fun fact: when I am not at work, you can find me running trails in the woods with the <a href="https://www.kcdirtcommunity.com/">KC Dirt Community</a>.
+⚡ Fun fact: when I am not at a computer, you can find me running trails in the woods with the <a href="https://www.kcdirtcommunity.com/">KC Dirt Community</a>.
 <br />
 
 
