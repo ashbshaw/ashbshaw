@@ -7,7 +7,7 @@ Hi there! 👋
 I'm Ashley, a Test  Engineer who likes to solve problems, document helpful information, and encourage team collaboration. Welcome to my GitHub profile. It's mostly filled with learning experiments, as I am not a full-time developer.
 <br />
 <br />
-⚡ Fun fact: when I am not at work, you can find me running trails in the woods.<a href="https://www.linkedin.com/in/hyunsukim/">
+⚡ Fun fact: when I am not at work, you can find me running trails in the woods with the <a href="https://www.kcdirtcommunity.com/">KC Dirt Community</a>.
 <br />
 
 
