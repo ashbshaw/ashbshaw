@@ -1,8 +1,8 @@
 Hi there! 👋
 <br />
 <br />
-<a href="https://www.linkedin.com/in/ashleybshaw/" target="_blank">
-  <img align="left" alt="Ashley's LinkedIn" width="48px" color="blue" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ashleybshaw/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 I'm Ashley, a Test Engineer who likes to solve problems, document helpful information, and facilitate team collaboration. Welcome to my GitHub profile. It's mostly filled with learning experiments, as I am not a full-time developer.
 <br />
