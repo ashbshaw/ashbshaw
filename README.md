@@ -1,14 +1,10 @@
 Hi there! 👋
-<br />
-<br />
-<a href="https://www.linkedin.com/in/ashleybshaw/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-</a>
+
+<a href="https://www.linkedin.com/in/ashleybshaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+
 I'm Ashley, a Test Engineer who likes to solve problems, document helpful information, and facilitate team collaboration. Welcome to my GitHub profile. It's mostly filled with learning experiments, as I am not a full-time developer.
-<br />
-<br />
-⚡ Fun fact: when I am not at a computer, you can find me running trails in the woods.
-<br />
+
+When I am not at work, you can find me trail running in the woods or attempting to play drums. 
 
 
 
